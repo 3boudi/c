@@ -1,0 +1,8 @@
+Item[1] Name: iphone12
+Item[1] Price: 100000.00
+Item[1] Quantity: 100
+
+Item[4] Name: s22
+Item[4] Price: 20000.00
+Item[4] Quantity: 120
+

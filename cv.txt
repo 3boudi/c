@@ -1,0 +1,22 @@
+Name,Phone Number,Email
+John Doe, 6 1234 5678,johndoe@email.com
+Jane Smith, 6 2345 6789,janesmith@email.com
+Alice Johnson, 6 3456 7890,alicejohnson@email.com
+Bob Brown,+213 6 4567 8901,bobbrown@email.com
+Charlie Davis,+213 6 5678 9012,charliedavis@email.com
+Daisy Miller,+213 6 6789 0123,daisymiller@email.com
+Ethan Wilson,+213 6 7890 1234,ethanwilson@email.com
+Fiona Garcia,+213 6 8901 2345,fionagarcia@email.com
+George Martinez,+213 6 9012 3456,georgemartinez@email.com
+Hannah Lee,+213 6 0123 4567,hannahlee@email.com
+Ian Thompson,+213 6 1234 6789,ianthompson@email.com
+Julia White,+213 6 2345 7890,juliawhite@email.com
+Kevin Harris,+213 6 3456 8901,kevinharris@email.com
+Laura Young,+213 6 4567 9012,laurayoung@email.com
+Mike Hall,+213 6 5678 0123,mikehall@email.com
+Nina King,+213 6 6789 1234,ninaking@email.com
+Oscar Wright,+213 6 7890 2345,oscarwright@email.com
+Paula Scott,+213 6 8901 3456,paulascott@email.com
+Quincy Adams,+213 6 9012 4567,quincyadams@email.com
+Rachel Green,+213 6 0123 5678,rachelgreen@email.com
+L4frktR+_sW!c~w

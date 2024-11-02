@@ -1,0 +1,16 @@
+Name: amin
+Employee Number: 90
+Salary: 100000000.00
+
+Name: solaiman
+Employee Number: 80
+Salary: 1000000000.00
+
+Name: hethyme
+Employee Number: 10
+Salary: 200019.00
+
+Name: kai
+Employee Number: 647
+Salary: 10.00
+
